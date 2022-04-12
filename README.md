@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/sfVCHVKeF4xsT02LMZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/sfVCHVKeF4xsT02LMZ/giphy.gif" width="100"/>
+</div>
 
 <!--
 **snew430/snew430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
