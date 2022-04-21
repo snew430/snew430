@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/sean-new-05a67a91/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://snew430.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=snew430&style=flat-square&color=blue" alt=""/>
   <h1>
